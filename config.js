@@ -3,7 +3,7 @@ module.exports = {
     //  🤖  BOT CONFIGURATION
     // ═══════════════════════════════════════════════════
     
-    mainToken: '8708938310:AAGF2yBO45jEa6zYhSvftTvZN0E9QgV22Z4',
+    mainToken: '8708938310:AAFeHrDFnH7dxHfUQB7g58FFO0WH0nWhBdw',
     
     S7: '@Shadowhacrrr',
     
